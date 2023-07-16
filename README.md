@@ -1,8 +1,8 @@
 # Basis of Learning!
 
-This forked-repository contains SnT project record of Mithun Raj for the project Basis of Learning. The language chosen for the project is "PYTHON"
+This forked-repository contains  record of Mithun Raj for the project Basis of Learning. The language chosen for the project is "PYTHON"
 # **Basis Of Learning**
->    SnT Project -2022 
+
 
 ## **Getting Started**
 ### ***Installing Anaconda***
