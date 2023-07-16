@@ -190,7 +190,7 @@ Used to convert the notebook file to another format.
 
 ## **Assignment-1**
 
->[Python Basics](Python.ipynb)
+>[Python Basics](https://www.python.org/)
 
 >[Pandas Basics](Pandas.ipynb)
 
