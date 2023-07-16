@@ -190,13 +190,13 @@ Used to convert the notebook file to another format.
 
 ## **Assignment-1**
 
->[Python Basics](https://www.python.org/)
+>[Python Basics](https://docs.python.org/3/tutorial/index.html)
 
->[Pandas Basics](Pandas.ipynb)
+>[Pandas Basics](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb)
 
->[Numpy Basics](Numpy.ipynb)
+>[Numpy Basics](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
 
->[Matplotlib Basics](Matplotlib.ipynb)
+>[Matplotlib Basics](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
 
 Stocastic gradient
 Bias
