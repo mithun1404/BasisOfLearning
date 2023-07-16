@@ -1,8 +1,6 @@
 # Basis of Learning!
 
 This forked-repository contains  record of Mithun Raj for the project Basis of Learning. The language chosen for the project is "PYTHON"
-# **Basis Of Learning**
-
 
 ## **Getting Started**
 ### ***Installing Anaconda***
@@ -93,7 +91,7 @@ If you no longer require a virtual environment. Delete it using the following co
 ### **Using Jupyter Notebooks**
 **Launching the Jupyter Notebook:**
 
-Jupyter Notebook is a web-based tool, so it requires your web browser to work.
+Jupyter Notebook is a web-based tool, it requires your web browser to work.
 
  To open Jupyter Notebook, you can search for the application on your computer and select it. Alternatively, you can open it up from your terminal or command line with the following command:
 
